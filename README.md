@@ -1,19 +1,5 @@
 
 
-Here’s a suggested template for the `README.md` file for your backend, including steps for setup and required dependencies:
-
-```markdown
-# Todo List with Auth - Backend
-
-This is the backend application for the Todo List with Authentication project.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [License](#license)
-
 ## Installation
 
 Follow these steps to set up the backend project locally:
@@ -73,15 +59,3 @@ This project uses the following dependencies:
 
 You can view the full list of dependencies in the `package.json` file.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Explanation
-- **Installation Steps:** Clear instructions for cloning the repository and setting up the environment.
-- **Usage:** Instructions on how to start the backend server.
-- **Dependencies:** A list of key libraries used in the backend.
-- **License:** License section for clarity.
-
-Feel free to adjust any sections according to your project's specifics!
